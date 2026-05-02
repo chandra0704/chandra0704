@@ -19,7 +19,9 @@ Passionate about cybersecurity, penetration testing, and continuous learning. I 
 ---
 
 ## 📜 Certifications  
-- **Network Penetration Testing (NPT1)** – ISOEH  
+- **Network Penetration Testing (NPT1)** – ISOEH
+- Certified Red Team Operations Management (CRTOM)
+- Cyber	Job	Simulation (Deloitte) 
 
 ---
 
